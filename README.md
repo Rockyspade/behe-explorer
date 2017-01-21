@@ -2,6 +2,14 @@
 <p><b>About</b></p>
 BeHe ExploreR it's a simple,small and minimalistic internet browser made for experimenting and learning.Anybody is welcome to participate
 to this project no matter if you are a developer,designer,translator,tester..or just a simple user reporting a bug :-).
+
+
+<a href="https://play.google.com/store/apps/details?id=com.vlath.beheexplorer">
+  <img alt="Get it on Google Play"
+       src="https://developer.android.com/images/brand/en_generic_rgb_wo_60.png" />
+</a>
+
+
 <li><p>Master:</li></p>
 <p><img src="https://travis-ci.org/VladThodo/behe-explorer.svg?branch=master"/></p>
 <li><p>Development:</p></li>
@@ -23,7 +31,6 @@ to this project no matter if you are a developer,designer,translator,tester..or 
   <li><p>Incognito mode</p></li>
 <p><b>License</b><p>
 <p>Copyright 2015 Vlad Todosin.</p>
-
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
@@ -36,5 +43,6 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
-You HAVE TO credit BeHexploreR for using this source code!
+
+You HAVE TO credit BeHe ExploreR for the use of this source code!
   
